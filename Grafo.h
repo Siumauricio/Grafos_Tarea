@@ -15,7 +15,7 @@ public:
 	void ImprimirGrafo ();
 	void floyds ();
 	void Dijksra (int);
-	int minimumDist (int dist[],bool Tset[]);
+	int minimaDistancia (int dist[],bool Tset[]);
 };
 
 #endif // !GRAFO_H
